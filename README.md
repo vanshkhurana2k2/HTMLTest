@@ -2,9 +2,9 @@
 ### Java learning, free now and forever.
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <br> <a href="#news">News</a>
+  <br> <a href="#contact">Contact</a>
+  <br> <a href="#about">About</a>
 </div>
 <p> 
   About Us
